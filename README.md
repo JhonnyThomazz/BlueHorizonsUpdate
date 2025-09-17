@@ -14,7 +14,7 @@ Aplicamos a metodologia do Scrum e Kanban para a organização e desenvolvimento
 <h1> <bold>Prévia do projeto:</bold></h1>
 <img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/80db0067-14f6-4d3b-81bb-e26eafcd4e55" />
 
-
+[Confira o site completo aqui!](https://jhonnythomazz.github.io/BlueHorizonsUpdate/)
 
 <div align="center">
 <h6>2025 - JhonnyThomazz™</h6>
