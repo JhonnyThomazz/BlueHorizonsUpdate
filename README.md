@@ -6,7 +6,7 @@
 
 ##
 
-<P>Imaginação a parte, esse projeto tinha como intuito a criação de um site com HTML e CSS sobre algumas propostas apresentadas pelo nosso professor. Dentre todas as propostas do Prof. Café, a que chamou a atenção de nossp grupo foi uma viagem de cruzeiro até o caribe.
+<P>Imaginação a parte, esse projeto tinha como intuito a criação de um site com HTML e CSS sobre algumas propostas apresentadas pelo nosso professor. Dentre todas as propostas do Prof. Café, a que chamou a atenção de nosso grupo foi uma viagem de cruzeiro até o Caribe.
 Aplicamos a metodologia do Scrum e Kanban para a organização e desenvolvimento do site, e esse é o nosso produto final: Uma landpage da empresa BlueHorizons!<br></P>
 
 ##
